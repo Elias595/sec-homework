@@ -10,7 +10,7 @@ public class NumberTester {
 
 
     public NumberTester(String fileName) {
-        this.fileName = fileName;
+        this.fileName = "numbers.txt";
     }
 
     public void setOddEvenTester(NumberTest oddTester) {
